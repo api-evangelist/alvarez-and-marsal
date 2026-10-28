@@ -1,4 +1,4 @@
-# Alvarez & Marsal (alvarez-and-marsal)
+# Alvarez & Marsal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,94 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alvarez & Marsal (A&M) is a leading global professional services firm, founded in 1983 by Tony Alvarez II and Bryan Marsal and headquartered in New York City. Privately held, the firm employs more than 10,000 people across six continents and is best known for turnaround and restructuring (Lehman Brothers, HealthSouth, Tribune, FTX, Arthur Andersen), performance improvement, tax advisory, transaction advisory, disputes and investigations, valuation, and private equity performance improvement (PEPI). A&M does not operate a public developer portal; technology is delivered through client engagements, internal proprietary tools, A&M Capital Partners, and a public Insights surface.
+Alvarez & Marsal (A&M) is a leading global professional services firm, founded in 1983 by Tony Alvarez II and Bryan Marsal and headquartered in New York City. Privately held, the firm employs more than 10,000 people across six continents and is best known for turnaround and restructuring engagements (Lehman Brothers, HealthSouth, Tribune, FTX, Arthur Andersen) and for performance improvement, tax advisory, transaction advisory, disputes and investigations, valuation, and private equity performance improvement (PEPI) services. A&M does not operate a public developer portal; technology is delivered through client engagements, internal proprietary tools, A&M Capital Partners (the firm's investment arm), and a public Insights / thought-leadership surface published on alvarezandmarsal.com.
 
-**URL:** [https://www.alvarezandmarsal.com/](https://www.alvarezandmarsal.com/)
+**Areas:** Consulting · Professional Services · Turnaround · Restructuring · Performance Improvement · Tax · Disputes And Investigations · Transaction Advisory · Private Equity
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=alvarez-and-marsal-api-evangelist&utm_content=repo)
+## Alvarez & Marsal on APIs.io
 
-## Tags
+Everything profiled for Alvarez & Marsal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alvarez-and-marsal/](https://apis.io/providers/alvarez-and-marsal/)** — or go straight to one of the APIs or properties below.
 
-- Consulting, Professional Services, Turnaround, Restructuring, Performance Improvement, Tax, Disputes And Investigations, Transaction Advisory, Private Equity
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-22
-- **Modified:** 2026-05-23
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public developer APIs published. See `apis.yml` for documented service lines, industries, use cases, and compliance scope captured in `common[]`.
+- [Alvarez And Marsal Domain Security](https://apis.io/security/alvarez-and-marsal/alvarez-and-marsal-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.alvarezandmarsal.com/)
-- [Insights](https://www.alvarezandmarsal.com/insights)
-- [About](https://www.alvarezandmarsal.com/about-us)
-- [Services](https://www.alvarezandmarsal.com/services)
-- [Industries](https://www.alvarezandmarsal.com/industries)
-- [Careers](https://www.alvarezandmarsal.com/careers)
-- [Contact](https://www.alvarezandmarsal.com/contact)
-- [Offices](https://www.alvarezandmarsal.com/locations)
-- [Leadership](https://www.alvarezandmarsal.com/our-people)
-- [PrivacyPolicy](https://www.alvarezandmarsal.com/privacy-policy)
-- [TermsOfService](https://www.alvarezandmarsal.com/terms-of-use)
-- [GitHubOrganization](https://github.com/alvarezandmarsal)
-- [LinkedIn](https://www.linkedin.com/company/alvarez-&-marsal)
-- [Wikipedia](https://en.wikipedia.org/wiki/Alvarez_%26_Marsal)
-- [AMCapitalPartners](https://www.a-mcapital.com/)
+- [Terms of service](https://www.alvarezandmarsal.com/terms-of-use)
+- [Privacy policy](https://www.alvarezandmarsal.com/privacy-policy)
+- [GitHub](https://github.com/alvarezandmarsal)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Turnaround And Restructuring | A&M's founding practice, delivering interim management, Chapter 11 advisory, and crisis stabilization for distressed companies and creditors. |
-| Performance Improvement | Operational and financial transformation engagements covering cost optimization, working capital, supply chain, and finance function redesign. |
-| Tax Advisory | Federal, state, international, and transaction tax services delivered by A&M Taxand, the firm's global tax arm. |
-| Disputes And Investigations | Forensic accounting, fraud investigation, litigation support, expert testimony, and regulatory and internal investigations. |
-| Transaction Advisory Group | Buy-side and sell-side financial, operational, IT, and ESG due diligence for corporate and private equity acquirers. |
-| Private Equity Performance Improvement (PEPI) | Operational diligence and post-close value-creation execution across the private equity hold cycle. |
-| Corporate Transformation Services | Enterprise-wide change programs combining strategy, operations, technology, and talent levers. |
-| Valuation Services | Business, intangible asset, financial instrument, and tax valuations for transactions, reporting, and disputes. |
-| A&M Insights | Publicly published research, reports, and articles produced across all practice areas on alvarezandmarsal.com/insights. |
-| A&M Capital Partners | A&M's middle-market private equity investment platform, operated separately from the consulting business. |
+**Kin Score 11.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 28.9 |
 
-| Name | Description |
-|------|-------------|
-| Corporate Turnaround And Chapter 11 Advisory | Boards and creditors retain A&M to stabilize distressed businesses, lead Chapter 11 cases, and serve in interim executive roles. |
-| Post-Merger Integration And Carve-Out Execution | Acquirers and divestors use A&M to plan and run integrations, carve-outs, TSA exits, and Day-1 readiness. |
-| Private Equity Value Creation | PE sponsors engage PEPI for commercial and operational diligence and 100-day plans through hold-period value capture. |
-| Forensic Investigation And Litigation Support | General counsel and regulators engage A&M Disputes and Investigations for fraud investigations, expert testimony, and monitorships. |
-| Tax Structuring And Controversy | Multinational corporates and PE funds use A&M Tax for structuring, compliance, transfer pricing, and controversy support. |
-| Public Sector Transformation | Federal, state, and local governments retain A&M for program turnaround, financial management, and operational transformation. |
+**Agent readiness 0.0** — human-only
 
-## Industries
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Financial Services | Banking, insurance, capital markets, asset management, and fintech engagements. |
-| Healthcare | Providers, payers, pharma, medtech, and life sciences performance and restructuring work. |
-| Energy | Oil and gas, power and utilities, renewables, and energy transition advisory. |
-| Retail And Consumer | Retail restructuring, brand performance, merchandising, and supply chain transformation. |
-| Real Estate | Real estate advisory, hospitality, and asset-level operational improvement. |
-| Public Sector | Federal, state, local, education, and not-for-profit client engagements. |
-| Technology Media And Telecom | Software, media, and telecommunications transformation and transaction work. |
-| Industrials And Manufacturing | Manufacturing operations, supply chain, and capital project performance. |
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
 
-## Compliance
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alvarez-and-marsal/](https://apis.io/providers/alvarez-and-marsal/).
 
-| Name | Description |
-|------|-------------|
-| Client Confidentiality | All engagements operate under master consulting agreements with strict confidentiality and conflict-management terms. |
-| GDPR | European client and personal data handling is governed by the EU General Data Protection Regulation. |
-| SOC 2 | A&M's hosted client environments and managed engagement platforms follow SOC 2 controls. |
-| ISO 27001 | A&M's information security management aligns with the ISO 27001 control framework. |
-| Independence And Conflicts | As an advisory firm regularly retained in distressed and disputed matters, A&M maintains independence and conflict-clearance processes consistent with court and regulator expectations. |
+## How this profile is made
 
-## Maintainers
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**FN:** Kin Lane
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alvarez & Marsal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**Email:** kin@apievangelist.com
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alvarez-and-marsal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
